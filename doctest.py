@@ -9,6 +9,6 @@ def main():
     for para in fulltext:
         doc2.add_paragraph(para)
         doc2.save("doc2.docx")
-    print("CHANGE")
+    print("MOM KNOWS EVERYTHING NOW")
 
 main()
